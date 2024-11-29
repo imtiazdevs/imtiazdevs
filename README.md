@@ -4,11 +4,11 @@ I'm Ahmed, Front End Developer & WordPress Developer from Bangladesh. I spend mo
 
 :coffee: &emsp;Connect with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/imtiaz.zannat) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiazzannat) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imtiazzannat@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/russellimtiaz88) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russellimtiaz88) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russellimtiaz88@gmail.com)
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 🤔 &emsp;I’m looking for people who can help me with programming knowledge.<br/>
-:e-mail:&emsp;How to reach me: imtiazzannat@gmail.com<br/>
+:e-mail:&emsp;How to reach me: russellimtiaz88@gmail.com<br/>
 📱&emsp;Contact number: +880 1711-227979
 
 #### Languages and Tools:
